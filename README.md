@@ -37,7 +37,7 @@ A full-stack transaction management app that lets users transfer funds seamlessl
 
 ### Let's Connect 🌐
 - 📧 Email: [ashutoshshukla8970@gmail.com](mailto:ashutoshshukla8970@gmail.com)
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/ashutosh-shukla](https://www.linkedin.com/in/ashutosh-shukla-1189b625b/))
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/ashutosh-shukla])
 
 ---
 
