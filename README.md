@@ -95,7 +95,7 @@ A full-stack web app that simplifies financial transfers and record keeping.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-shukla)
 - 📧 Email: [ashutoshshukla8970@gmail.com](mailto:ashutoshshukla8970@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/u/Ashutoshshukla_123/)
-- 🎬 [Aprameya Productions](https://aprameya.vercel.app)
+- 🎬 [Aprameya Productions](https://aprameyaproductions.vercel.app)
 - 🌐 [Portfolio (Coming Soon)]()
 
 ---
