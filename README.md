@@ -38,8 +38,8 @@ I'm a passionate developer who began as a MERN stack enthusiast and is now divin
 ### 💻 DSA & LeetCode Journey
 I consistently practice **Data Structures & Algorithms** to improve logic & pattern recognition.
 
-- ✅ Solved 400+ LeetCode problems  
-- 🔁 Mastered key topics: Dynamic Programming, Graphs, Sliding Window, Recursion
+- ✅ Solved 200+ LeetCode problems  
+- 🔁 Mastered key topics: Array, Hashmap, Graphs, Sliding Window, Recursion, Dynamic Programming
 - 📘 Built internal notes & reusable templates for interviews
 
 > DSA is my gym — the brain workout I never skip.
