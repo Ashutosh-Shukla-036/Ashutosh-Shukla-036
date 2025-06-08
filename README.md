@@ -192,16 +192,8 @@ A full-stack web app that simplifies financial transfers and record keeping.
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-shukla)
 - 📧 Email: [ashutoshshukla8970@gmail.com](mailto:ashutoshshukla8970@gmail.com)
 - 🧠 [LeetCode](https://leetcode.com/u/Ashutoshshukla_123/)
--  🌐 [Portfolio (Coming Soon)]()
-
----
-
-### 💡 Fun Fact
-If debugging is the process of removing bugs, then programming must be the process of putting them in 🐛
-
----
-
-#### Thanks for visiting! Let's build the future — with code, creativity, and curiosity.
+- 🎬 [Aprameya Productions](https://aprameya.vercel.app)
+- 🌐 [Portfolio (Coming Soon)]()
 
 ---
 
