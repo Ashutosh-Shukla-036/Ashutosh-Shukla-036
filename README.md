@@ -71,26 +71,6 @@ A full-stack web app that simplifies financial transfers and record keeping.
 
 ---
 
-### 📊 GitHub Stats
-
-#### 📈 Contribution Streak:
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ashutosh-Shukla-036&theme=tokyonight&hide_border=true" alt="Contribution Streaks">
-</p>
-
-#### 🏆 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh-Shukla-036&layout=compact&theme=tokyonight" alt="Most Used Languages">
-</p>
-
-#### 🛠️ Profile Overview:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashutosh-Shukla-036&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashutosh-Shukla-036&theme=tokyonight" alt="Profile Summary">
-</p>
-
----
-
 ### 🌐 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-shukla)
 - 📧 Email: [ashutoshshukla8970@gmail.com](mailto:ashutoshshukla8970@gmail.com)
