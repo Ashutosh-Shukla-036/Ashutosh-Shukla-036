@@ -1,11 +1,11 @@
 <h1 align="center">Ashutosh Shukla</h1>
 <h3 align="center">
-Full-Stack Engineer | AI-Integrated Systems | Scalable Backend
+Software Engineer | Full-Stack Developer | Problem Solver 
 </h3>
 
 ---
 
-### 👋 Overview
+### Overview
 I design and build **production-grade software systems** with a strong focus on  
 **backend engineering, AI integration, and system performance**.
 
@@ -16,7 +16,7 @@ I care about **clean architecture, measurable impact, and systems that scale bey
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **Software Engineer Intern — LeapMile Robotics**  
 - Developing and maintaining backend services for robotics and automation platforms  
@@ -25,23 +25,9 @@ I care about **clean architecture, measurable impact, and systems that scale bey
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
-#### 🧠 AI Interview & Technical Evaluation Platform
-End-to-end system for conducting and evaluating technical interviews.
-
-**Engineering highlights**
-- Resume-aware question generation using NLP embeddings  
-- Voice-based interaction using **Whisper** and **Wav2Vec**  
-- Semantic answer evaluation with **sentence-transformers**  
-- Follow-up and counter-question logic for adaptive interviews  
-- Modular **FastAPI** backend designed for extensibility  
-
-**Focus:** applied NLP, evaluation pipelines, backend system design
-
----
-
-#### 🌱 CaFooT – Carbon Footprint Tracking & Insights Platform
+#### CaFooT – Carbon Footprint Tracking & Insights Platform
 Sustainability analytics platform focused on **Scope 3 emissions**.
 
 **Key contributions**
@@ -54,7 +40,7 @@ Sustainability analytics platform focused on **Scope 3 emissions**.
 
 ---
 
-#### 🎬 Aprameya – Full-Stack Media Platform
+#### Aprameya – Full-Stack Media Platform
 Founder & engineer behind a production-grade creative platform.
 
 **Engineering highlights**
@@ -67,7 +53,7 @@ Founder & engineer behind a production-grade creative platform.
 
 ---
 
-#### 📊 Employee Attrition Prediction System (ML)
+#### Employee Attrition Prediction System (ML)
 Machine learning system for HR analytics and decision support.
 
 - Trained and tuned **XGBoost** models for attrition prediction  
@@ -78,14 +64,14 @@ Machine learning system for HR analytics and decision support.
 
 ---
 
-### 🧠 Problem Solving & DSA
+### Problem Solving & DSA
 - Solved **200+ LeetCode problems**  
 - Strong in Arrays, Hashing, Graphs, Sliding Window, Dynamic Programming  
 - Focused on pattern recognition and optimization strategies  
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 **Languages:** Python, JavaScript, TypeScript, C++, SQL  
 **Frontend:** React, Tailwind CSS  
 **Backend:** Node.js, Express, FastAPI, REST APIs, JWT  
@@ -95,7 +81,7 @@ Machine learning system for HR analytics and decision support.
 
 ---
 
-### 🏆 Highlights
+### Highlights
 - Founder of a production-ready creative-tech platform  
 - National-level hackathon participant (sustainability & AI)  
 - Filed design patent for a smart rainwater harvesting system  
@@ -103,7 +89,7 @@ Machine learning system for HR analytics and decision support.
 
 ---
 
-### 🔗 Links
+### Links
 - GitHub: https://github.com/Ashutosh-Shukla-036  
 - LinkedIn: https://www.linkedin.com/in/ashutosh-shukla-1189b625b/  
 - LeetCode: https://leetcode.com/u/Ashutoshshukla_123  
