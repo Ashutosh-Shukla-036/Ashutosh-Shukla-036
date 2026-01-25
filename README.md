@@ -1,88 +1,76 @@
-<h1 align="center">Hi there, I'm Ashutosh Shukla 👋</h1>
-<h3 align="center">🚀 Full-Stack Dev turned AI/ML Enthusiast | 📊 Problem Solver | 🎬 Creative Technologist</h3>
+<h1 align="center">Ashutosh Shukla</h1>
+<h3 align="center">
+Final-Year CSE Student | Full-Stack Developer → AI/ML Engineer
+</h3>
 
 ---
 
-### About Me 🚀
-I'm a passionate developer who began as a MERN stack enthusiast and is now diving deep into the world of **AI/ML**, solving real-world problems with code, creativity, and coffee.
+### 👋 About
+I build **practical, interview-ready systems** at the intersection of  
+**AI/ML, backend engineering, and system design**.
 
-- 🤖 Final Year Project: **AI-Powered Interview Bot** for resume-based technical interviews
-- 🌱 Learning: **Machine Learning**, **Deep Learning**, **System Design**, and **Advanced DSA**
-- 🧠 Active LeetCode problem solver — mastering patterns & optimization
-- 💼 Founder at **Aprameya Productions** – Blending tech & storytelling into visual content
-- ⚡ Fun fact: I love pushing limits — from debugging neural nets to directing short films
-
----
-
-### 🔬 AI/ML & Major Projects
-
-- **🧠 AI Interview Bot** *(B.E. Final Year Project)*  
-  Automates tech interviews with voice input, NLP, and semantic analysis:
-  - Uses `HuggingFace` models like **distilBERT**, **Wav2Vec**, and **Whisper**
-  - Resume-based custom question generation
-  - Real-time answer evaluation & feedback using sentence transformers
-
-- **🌱 CaFooT – Carbon Footprint Tracker** *(Hackathon Project @ Manthan)*  
-  Built to track **Scope 3 emissions** for industries and communities:
-  - Real-time activity logging
-  - Region-specific emission models
-  - Eco-recommendations, gamification & insights dashboard
-
-- **🎬 Aprameya Productions** *(Creative Venture)*  
-  A digital production studio blending **technology, design, and film**:
-  - Built the complete website and content delivery platform
-  - Focus on storytelling through visual media, reels, shorts, and indie content
+Currently focused on:
+- Applied NLP & speech-based systems
+- AI-driven evaluation and feedback pipelines
+- Scalable backend APIs
 
 ---
 
-### 💻 DSA & LeetCode Journey
-I consistently practice **Data Structures & Algorithms** to improve logic & pattern recognition.
+### 🚀 Key Projects
 
-- ✅ Solved 200+ LeetCode problems  
-- 🔁 Mastered key topics: Array, Hashmap, Graphs, Sliding Window, Recursion, Dynamic Programming
-- 📘 Built internal notes & reusable templates for interviews
+#### 🧠 AI-Powered Interview Bot (Final Year Project)
+Automates technical interviews using voice + NLP.
 
-> DSA is my gym — the brain workout I never skip.
-
----
-
-### 🔧 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</p>
+**Tech & Highlights**
+- Resume-based question generation (NLP + embeddings)
+- Speech-to-text using **Whisper / Wav2Vec**
+- Answer evaluation using **sentence-transformers**
+- Backend built with **FastAPI**
+- Designed for follow-up & counter-question logic
 
 ---
 
-### ⚙️ Reactify – Transaction Management App
-A full-stack web app that simplifies financial transfers and record keeping.
+#### 🌱 CaFooT – Carbon Footprint Tracker (Hackathon @ Manthan)
+Platform to analyze and reduce **Scope 3 emissions**.
 
-- 🔐 JWT-based authentication
-- 🧩 Clean UI with Tailwind & component architecture
-- ⚡ Performance optimized: 30% faster API handling
-
----
-
-### 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ashutosh-shukla)
-- 📧 Email: [ashutoshshukla8970@gmail.com](mailto:ashutoshshukla8970@gmail.com)
-- 🧠 [LeetCode](https://leetcode.com/u/Ashutoshshukla_123/)
-- 🎬 [Aprameya Productions](https://aprameyaproductions.vercel.app)
-- 🌐 [Portfolio](https://ashutoshshuklaportfolio.vercel.app/)
+- Activity-based carbon tracking
+- Industry-focused emission modeling
+- Insights dashboard with recommendations
+- Designed for enterprise & community use cases
 
 ---
 
-### 💡 Fun Fact
-If debugging is the process of removing bugs, then programming must be the process of putting them in 🐛
+#### 🎬 Aprameya Productions
+Founder of a creative-tech studio.
+
+- Built and deployed the complete website
+- Combined engineering, design, and storytelling
+- Hands-on with production workflows & content systems
 
 ---
 
-#### Thanks for visiting! Let's build the future — with code, creativity, and curiosity.
+### 🧠 DSA & Problem Solving
+- Solved **200+ LeetCode problems**
+- Strong in: Arrays, Hashing, Graphs, DP, Sliding Window
+- Focused on interview patterns & optimization
+
+---
+
+### 🛠 Tech Stack
+**Languages:** Python, C++, JavaScript  
+**Backend:** FastAPI, Node.js, Express  
+**Frontend:** React, TailwindCSS  
+**AI/ML:** HuggingFace, TensorFlow, NLP pipelines  
+**DB:** MongoDB  
+
+---
+
+### 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/ashutosh-shukla
+- LeetCode: https://leetcode.com/u/Ashutoshshukla_123/
+- Portfolio: https://ashutoshshuklaportfolio.vercel.app
+- Aprameya Productions: https://aprameyaproductions.vercel.app
+
+---
+
+> I care more about **building solid systems** than chasing buzzwords.
