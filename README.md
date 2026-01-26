@@ -6,11 +6,9 @@ Software Engineer | Full-Stack Developer | Problem Solver
 ---
 
 ### Overview
-I design and build **production-grade software systems** with a strong focus on  
-**backend engineering, AI integration, and system performance**.
+I design and build **production-grade software systems** with a strong focus on **backend engineering, AI integration, and system performance**.
 
-Currently working as a **Software Engineer Intern at LeapMile Robotics**, contributing to
-real-world backend and full-stack systems used in robotics workflows.
+Currently working as a **Software Engineer Intern at LeapMile Robotics**, contributing to real-world backend and full-stack systems used in robotics workflows.
 
 I care about **clean architecture, measurable impact, and systems that scale beyond demos**.
 
