@@ -69,11 +69,11 @@ Multi-layer caching cut API response time by **25%** under peak load. JWT auth, 
 ---
 
 ### Stack
-Languages  →  Python · TypeScript · JavaScript · Java · SQL
-Backend    →  FastAPI · Node.js · Express · WebSockets · REST · JWT
-Infra      →  Linux · Docker · Nginx · systemd · pyinfra · SSH · CI/CD
-Databases  →  PostgreSQL · Redis · MongoDB · asyncpg · Connection Pooling
-Frontend   →  React · Tailwind CSS
+- Languages  →  Python · TypeScript · JavaScript · Java · SQL
+- Backend    →  FastAPI · Node.js · Express · WebSockets · REST · JWT
+- Infra      →  Linux · Docker · Nginx · systemd · pyinfra · SSH · CI/CD
+- Databases  →  PostgreSQL · Redis · MongoDB · asyncpg · Connection Pooling
+- Frontend   →  React · Tailwind CSS
 
 ---
 
