@@ -1,99 +1,85 @@
 <h1 align="center">Ashutosh Shukla</h1>
-<h3 align="center">
-Software Engineer | Full-Stack Developer | Problem Solver 
-</h3>
+
+<p align="center">
+  I build things that run in production, not just in demos.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ashutosh-Shukla-036">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/ashutosh-shukla-1189b625b/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/Ashutoshshukla_123">LeetCode</a> ·
+  <a href="https://ashutoshshuklaportfolio.vercel.app">Portfolio</a>
+</p>
 
 ---
 
-### Overview
-I design and build **production-grade software systems** with a strong focus on **backend engineering, AI integration, and system performance**.
+I like working close to the metal — deployment pipelines, system reliability, database internals, Linux server automation. If it touches production and something can go wrong, that's where I want to be.
 
-Currently working as a **Software Engineer Intern at LeapMile Robotics**, contributing to real-world backend and full-stack systems used in robotics workflows.
-
-I care about **clean architecture, measurable impact, and systems that scale beyond demos**.
+Currently interning at **LeapMile Robotics**, building backend infrastructure for real robotic systems. Before that I shipped a self-hosted PaaS, a chess engine with Redis caching, and a full-stack media platform — all running live.
 
 ---
 
-### Professional Experience
+### What I'm working on
 
-**Software Engineer Intern — LeapMile Robotics**  
-- Developing and maintaining backend services for robotics and automation platforms  
-- Working on REST APIs, data flows, and system integrations in a production environment  
-- Collaborating with engineers to improve reliability, performance, and code quality  
+- **Nexus** — a self-hosted PaaS I built from scratch. `git push` → stack detection → systemd orchestration → Nginx routing → live. Automatic rollback on failure. Zero manual steps. Validated across FastAPI, Express, React, and Next.
+- Building observability into production systems at LeapMile — metrics, log pipelines, real-time dashboards.
 
 ---
 
-### Selected Projects
+### Projects
 
-#### CaFooT – Carbon Footprint Tracking & Insights Platform
-Sustainability analytics platform focused on **Scope 3 emissions**.
+**[Nexus – Self-Hosted PaaS](https://github.com/Ashutosh-Shukla-036/Nexus)**
 
-**Key contributions**
-- Designed scalable REST APIs for emission and activity tracking  
-- Built industry-focused emission models and data pipelines  
-- Integrated AI-generated recommendations for actionable insights  
-- Developed dashboards to visualize and interpret sustainability data  
+> Your own Heroku, on your own server.
 
-**Tech:** React, Node.js, MongoDB / PostgreSQL, Tailwind, AI integrations
+Automated the entire deploy pipeline from `git push` to live service — stack detection, systemd service orchestration, Nginx routing, and rollback on failure. Built a real-time dashboard with WebSocket-based journal log streaming, uptime checks, and a Linux service control API. Zero manual intervention across 4 language stacks.
+
+`FastAPI` `PostgreSQL` `asyncpg` `Nginx` `systemd` `React` `WebSockets` `Linux`
 
 ---
 
-#### Aprameya – Full-Stack Media Platform
-Founder & engineer behind a production-grade creative platform.
+**[ChessMind – Real-time Chess Analysis](https://github.com/Ashutosh-Shukla-036/Chess)** · [Live](https://ashutoshshuklaportfolio.vercel.app)
 
-**Engineering highlights**
-- Architected JWT-based authentication and secure REST APIs  
-- Implemented search, filtering, and optimized content delivery  
-- Built and deployed a responsive frontend on **Vercel**  
-- Managed end-to-end product development and deployment  
+> Stockfish in your browser, without melting the server.
 
-**Tech:** React, Node.js, Express, MongoDB, Tailwind
+Streamed async move evaluations over WebSockets via background threading. Built a fault-tolerant Stockfish engine pool with auto-recycling after 100 requests (no memory leaks in long sessions). Redis caching with SHA-256 keys cut repeat analysis latency by **80%**.
+
+`FastAPI` `Redis` `WebSockets` `Docker` `Stockfish` `React` `TypeScript`
 
 ---
 
-#### Employee Attrition Prediction System (ML)
-Machine learning system for HR analytics and decision support.
+**[Aprameya – Film Showcase Platform](https://aprameyaproductions.vercel.app)**
 
-- Trained and tuned **XGBoost** models for attrition prediction  
-- Improved baseline performance through feature engineering  
-- Applied **SHAP** for model explainability and transparency  
+> Production-grade, not portfolio-grade.
 
-**Tech:** Python, scikit-learn, XGBoost, SHAP, pandas
+Multi-layer caching cut API response time by **25%** under peak load. JWT auth, RBAC, full-text search, advanced filtering — the full stack, shipped and live.
 
----
-
-### Problem Solving & DSA
-- Solved **200+ LeetCode problems**  
-- Strong in Arrays, Hashing, Graphs, Sliding Window, Dynamic Programming  
-- Focused on pattern recognition and optimization strategies  
+`Node.js` `Express` `MongoDB` `React` `TypeScript` `Tailwind` `JWT`
 
 ---
 
-### Tech Stack
-**Languages:** Python, JavaScript, TypeScript, C++, SQL  
-**Frontend:** React, Tailwind CSS  
-**Backend:** Node.js, Express, FastAPI, REST APIs, JWT  
-**Databases:** MongoDB, PostgreSQL  
-**AI/ML:** HuggingFace, Whisper, Wav2Vec, sentence-transformers, XGBoost  
-**Tools:** Git, Docker, Postman, Vercel, Render  
+### Day job
+
+**Software Engineer Intern — LeapMile Robotics** · Jan 2026 – Present
+
+- Killed per-request pool creation by architecting a shared PostgreSQL connection pool singleton + schema cache — meaningfully reduced connection overhead across services
+- Hunted down and fixed production-critical database bugs in robotic execution pipelines
+- Automated remote Linux deployments with pyinfra — Nginx, systemd, SSH, the whole stack
 
 ---
 
-### Highlights
-- Founder of a production-ready creative-tech platform  
-- National-level hackathon participant (sustainability & AI)  
-- Filed design patent for a smart rainwater harvesting system  
-- Strong mix of engineering, AI, and product ownership  
+### Stack
+Languages  →  Python · TypeScript · JavaScript · Java · SQL
+Backend    →  FastAPI · Node.js · Express · WebSockets · REST · JWT
+Infra      →  Linux · Docker · Nginx · systemd · pyinfra · SSH · CI/CD
+Databases  →  PostgreSQL · Redis · MongoDB · asyncpg · Connection Pooling
+Frontend   →  React · Tailwind CSS
 
 ---
 
-### Links
-- GitHub: https://github.com/Ashutosh-Shukla-036  
-- LinkedIn: https://www.linkedin.com/in/ashutosh-shukla-1189b625b/  
-- LeetCode: https://leetcode.com/u/Ashutoshshukla_123  
-- Portfolio: https://ashutoshshuklaportfolio.vercel.app  
-- Aprameya Productions: https://aprameyaproductions.vercel.app  
+### Misc
 
----
-
-> I focus on building systems that work in production — not just prototypes.
+- Top 1% @ Tem-E-Thon 2025 (3000+ participants) · Finalist @ VYUHA National Hackathon
+- 2nd place — Sustainable Innovation Tech Competition, Skyline University (Dubai)
+- Filed an innovation patent in 2025 for a smart rainwater harvesting system (yes, really)
+- I play chess. ChessMind exists partly because of that.
